@@ -2,11 +2,7 @@
 https://nestorportf.vercel.app/
 &nbsp;
 
-
 I'm a **Backend + Full-Stack Engineer** with 5+ years of experience building scalable systems (ERPs, Fintech, SaaS, B2B) and data pipelines. I enjoy turning messy, real-world workflows into reliable, production-grade products that make people's work faster and decisions smarter.
-
-Currently working on cloud-native manufacturing automation, ML-powered pricing systems, and workflow orchestration at **radii.**
-
 
 ## &nbsp;Professional Highlights
 
@@ -21,7 +17,6 @@ Currently working on cloud-native manufacturing automation, ML-powered pricing s
 
 - **Web Developer / Data Analyst** @ Fort Group
   Created ERP systems and operational dashboards with Python, SQL, and Power BI
-
 &nbsp;
 
 ## &nbsp;Featured Projects
@@ -37,9 +32,7 @@ Full-stack gaming assistant with React dashboard + Django API tracking 500+ play
 
 [![Athena Toolkit](https://img.shields.io/badge/-Athena_Internal_Tool-2d2d2d?style=flat&logo=flask&logoColor=white)](#)
 Internal Flask app that accelerated financial data resolution (Private)
-
 &nbsp;
-
 
 ## &nbsp;Technical Expertise
 
