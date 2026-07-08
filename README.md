@@ -2,11 +2,11 @@
 
 **Software Engineer** with 5+ years of experience building production-grade systems,  automation workflows, data pipelines, AI agents, and full-stack products for SaaS, B2B, fintech, manufacturing, and internal operations.
 
-I like turning messy real-world workflows into reliable software that makes work faster, decisions smarter, and systems easier to operate.
+I like to develop reliable software that makes work faster, decisions smarter, and systems easier to operate.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nestorportf.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://nestorportf.vercel.app/)
 
-## Professional Highlights
+## Work Experience
 
 - **Software Engineer @ radii.** *(Current)*  
   Building ML-powered instant quoting, 3D geometry visualization, event-driven Azure systems, and LangGraph workflow orchestration.
@@ -19,38 +19,6 @@ I like turning messy real-world workflows into reliable software that makes work
 
 - **Web Developer / Data Analyst @ Fort Group**  
   Created ERP systems, operational dashboards, and reporting tools with Python, SQL, Excel, and Power BI.
-
-## Featured Projects
-
-### [radii. instant quoting platform](https://www.radii.com/)
-ML-assisted manufacturing quoting platform with 3D geometry visualization, pricing workflows, Azure services, and production observability.
-
-**Python · React · TypeScript · Azure · PostgreSQL · LangGraph · Machine Learning**
-
-### [YouTube Outlier Research Platform](https://github.com/NesDevr/youtube-content-analyzer)
-Full-stack research platform for creators and content teams that finds outlier videos, analyzes transcripts and metadata, compares trends, and generates AI-assisted content ideas.
-
-**Next.js · React · TypeScript · Prisma · PostgreSQL · Gemini · Tailwind CSS**
-
-### [AI Video Production Factory](https://github.com/NesDevr/video-factory)
-Automated video production pipeline that moves from research and planning to narration, visual generation, rendering, and final MP4 assembly.
-
-**Python · React · TypeScript · Google Cloud · Remotion · FFmpeg**
-
-### [Minley Budget App + MCP Server](https://github.com/NesDevr/minley-budget-app)
-Native Android budget tracker with an optional MCP server for assistant-driven account, transaction, reminder, and monthly activity tools.
-
-**Kotlin · Android · Jetpack Compose · Supabase · TypeScript**
-
-### [Coffee Shop Chatbot](https://github.com/NesDevr/coffee-shop-chatbot)
-Next.js coffee storefront with a floating AI chat widget using LangChain and Supabase vector search for retrieval-augmented customer answers.
-
-**Next.js · React · TypeScript · Supabase · LangChain · Tailwind CSS**
-
-### [Yalaharbot Discord bot and Dashboard](https://github.com/NesDevr/yalaharbot-tibia-discord-bot)
-Discord automation bot for Tibia communities with character linking, level/death alerts, leaderboards, a Django REST API, and a Next.js dashboard.
-
-**Python · Django REST · discord.py · Next.js · React · Tailwind CSS**
 
 ## Technical Expertise
 
