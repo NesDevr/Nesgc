@@ -27,7 +27,7 @@ ML-assisted manufacturing quoting platform with 3D geometry visualization, prici
 
 **Python · React · TypeScript · Azure · PostgreSQL · LangGraph · Machine Learning**
 
-### [YouTube Outlier Research Platform](https://github.com/NesDevr/yt-outlier-finder)
+### [YouTube Outlier Research Platform](https://github.com/NesDevr/youtube-content-analyzer)
 Full-stack research platform for creators and content teams that finds outlier videos, analyzes transcripts and metadata, compares trends, and generates AI-assisted content ideas.
 
 **Next.js · React · TypeScript · Prisma · PostgreSQL · Gemini · Tailwind CSS**
@@ -37,17 +37,17 @@ Automated video production pipeline that moves from research and planning to nar
 
 **Python · React · TypeScript · Google Cloud · Remotion · FFmpeg**
 
-### [Minley Budget App + MCP Server](https://github.com/NesDevr/minley-budget)
+### [Minley Budget App + MCP Server](https://github.com/NesDevr/minley-budget-app)
 Native Android budget tracker with an optional MCP server for assistant-driven account, transaction, reminder, and monthly activity tools.
 
 **Kotlin · Android · Jetpack Compose · Supabase · TypeScript**
 
-### [Coffee Shop Chatbot](https://github.com/NesDevr/coffee-chatbot)
+### [Coffee Shop Chatbot](https://github.com/NesDevr/coffee-shop-chatbot)
 Next.js coffee storefront with a floating AI chat widget using LangChain and Supabase vector search for retrieval-augmented customer answers.
 
 **Next.js · React · TypeScript · Supabase · LangChain · Tailwind CSS**
 
-### [Yalaharbot Discord bot and Dashboard](https://github.com/NesDevr/YalaharBot/)
+### [Yalaharbot Discord bot and Dashboard](https://github.com/NesDevr/yalaharbot-tibia-discord-bot)
 Discord automation bot for Tibia communities with character linking, level/death alerts, leaderboards, a Django REST API, and a Next.js dashboard.
 
 **Python · Django REST · discord.py · Next.js · React · Tailwind CSS**
